@@ -41,4 +41,9 @@ public class Gaulois {
 
 	}
 
+	public void setVillage(Village village) {
+		// TODO Auto-generated method stub
+
+	}
+
 }
